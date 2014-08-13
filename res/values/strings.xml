@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">psumaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="PSUBuildingsList">PSUBuildingsList</string>
+    <string name="Campus_Map">Campus Map</string>
+    <string name="title_activity_image_view__main">image_view__main</string>
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_location">Enter location</string>
+    <string name="manual_locations">Manual Locations</string>
+    <string name="Find_Directions">Find Directions</string>
+    <string name="History">History</string>
+    <string name="Clear_Markers">Clear/Display</string>
+    
+    
+    
+</resources>
