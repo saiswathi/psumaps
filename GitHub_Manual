@@ -1,0 +1,32 @@
+Pre requisites:
+
+Eclipse IDE for Java Developers 
+Link: http://www.eclipse.org/downloads/
+
+Cloning an existing repository into your local file system:
+
+Open Eclipse and choose File --> Import --> Git --> Project from Git
+
+Select URI and give the URI of the Git repository
+
+https://github.com/saiswathi/psumaps
+
+Choose master branch in the Import projects from Git wizard.
+
+Give the destination in your local system where you want to download the code.
+
+Egit plug-in will open an additional dialogue which allows to import the projects from the Git repository.
+
+Now the code is available in your Eclipse workspace.
+
+All team operations are available by right-clicking project and selecting Team.
+
+To commit files do Team --> commit.
+
+Additional resources:
+
+Please refer the below links for more information on cloning a repository and importing project into 
+workspace
+
+https://github.com/OneBusAway/onebusaway/wiki/Importing-source-code-into-Eclipse
+http://wiki.eclipse.org/EGit/User_Guide
