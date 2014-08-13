@@ -50,19 +50,31 @@ The source code can be found at the following repository Link for repository :
 https://github.com/saiswathi/psumaps
 
 Developer Documents:
-Please click on the links below to find developer documents Github Manual 
 
-Google Maps API Key Generation 
+Please click on the links below to find developer documents
 
-Google Places API Key Generation 
+Github Manual:
+
+https://github.com/saiswathi/psumaps/blob/master/Docs/GitHub_Manual
+
+Google Maps API Key Generation: 
+
+https://github.com/saiswathi/psumaps/blob/master/Docs/GoogleMapsAPIKeyGeneration.pdf
+
 
 User Documents:
+
 Please click on the links below to find user documents: Guide for .apk installation: 
 
-Build Instruction:
-Click on the link below to find Build Instruction 
+https://github.com/saiswathi/psumaps/blob/master/Docs/Guide_For_Apk_Installation
 
-User Manual
+Build Instruction:
+
+Click on the link below to find Build Instruction
+
+https://github.com/saiswathi/psumaps/blob/master/Docs/InstallationGudeForDevelopers
+
+
 
 
 Pre-requisites:
