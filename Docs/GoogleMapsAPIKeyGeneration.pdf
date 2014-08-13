@@ -1,0 +1,43 @@
+Pre-requisite
+A valid Google account.
+Step 1 - Creating API Project
+1. Login to your Google account and go to Google APIs Console https://code.google.com/apis/console.
+2. Click Create Project if you have not used Google APIs console before.
+3. In your project page, click on APIs link on the left panel.4. In the list of services displayed, scroll down until you see Google Maps Android API V2 and turn 
+on the service by sliding the switch indicator to on.
+5. Agree the terms of services and you are all set.
+For more details, please visit 
+https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_t
+he_google_maps_api_key
+Step 2 - Displaying a SHA-1 fingerprint
+By default, the debug certificate file, debug.keystore is located at 
+OS X and Linux: ~/.android/
+Windows Vista and Windows 7: C:\Users\your_user_name\.android\
+List the SHA-1 fingerprint
+For Linux , open a terminal and run the following command
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass 
+android
+For Windows user,
+keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass 
+android -keypass android
+For more details, please visit 
+https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_t
+he_google_maps_api_key
+Step 3 - Obtaining a Google Maps API Key
+1. Navigate to your project you created in Step 1 in Google APIs Console
+2. Ensure that "Google Maps Android API V2" is set to "on" in your services page.
+3. Click API access and click "Create New Android Key"
+4. Enter the SHA-1 finger print and then your application's package name. 
+5. Google APIs console responds by displaying Key for Android Apps(with certificates) followed by 
+a forty-character API key.
+For more details, please visit 
+https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_t
+he_google_maps_api_key
+Step 4 - Adding API key to the application
+Add the following element as a child of <application> element in the AndroidManifest.xml file and 
+replace API_KEY with your key.<meta-data 
+android:name="com.google.android.maps.v2.API_KEY" 
+android:value="API_KEY"/>
+Save the file and re-build the application.
+For more details, please visit 
+https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_t
