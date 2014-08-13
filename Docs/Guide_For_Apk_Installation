@@ -1,0 +1,29 @@
+
+
+Pre-requisite:
+
+Android SDK
+
+Link : http://developer.android.com/sdk/index.html
+
+ADB
+
+Link : http://developer.android.com/tools/help/adb.html
+
+
+1. Connect the device in which you want to install the application to your development machine having the .apk file using USB.
+
+2. Enable USB debugging in your device.
+
+3. For versions below 4.2, enable USB Debugging in the device system settings under Developer Options.
+
+4. For versions 4.2 and above, go to Settings --> About Phone and tap Build Number seven times.
+
+5. Developer Options will now be visible at the bottom of the previous screen.
+
+6. Now enable USB Debugging by ticking the check box.
+
+The downloaded Eclipse IDE will have the ADT plug-in installed. Right click on your project ( which you 
+have imported from the Github repository) and click Run As --> Android Application.
+
+The .apk file is generally located in the bin folder of your project.
