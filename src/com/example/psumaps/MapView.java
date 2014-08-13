@@ -244,7 +244,7 @@ public class MapView extends FragmentActivity implements OnMarkerClickListener{
 	    buildingsList.put("Stephen E. Epler Hall",SEH );
 	    buildingsList.put("South Greenhouse",SGH );
 	    buildingsList.put("Shattuck Hall",SH );
-	    buildingsList.put("Smith Memorial Student Union",SMSU );
+	    buildingsList.put("Smith Memorial Student Union",SMSU);
 	    buildingsList.put("Science Research and Teaching Center",SRTC );
 	    buildingsList.put("Stratford Building",STFD );
 	    buildingsList.put("Saint Helens Building",STHL );
