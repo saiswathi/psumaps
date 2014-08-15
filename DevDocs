@@ -1,0 +1,61 @@
+Instructions to build the Application:
+
+1. The development system should meet the following requirements:
+- JDK 6 or JDK 7 (JRE alone is not sufficient). Follow below 
+link to install 
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+- Install Eclipse IDE, Juno or later from 
+http://www.eclipse.org/downloads/
+
+2. Download Android SDK (ADT Bundle):
+Follow link: http://developer.android.com/sdk/index.html
+
+3. Install SDK platform
+
+Select Windows-> Android SDK Manager, choose available packages in the left panel.
+Click the repository checkbox to display the available components for installation.
+
+Select SDK Platform Android 4.2.2 (API 17) and make sure that Google APIs level 17 are selected and click “Install Selected”
+
+Follow http://developer.android.com/sdk/installing/index.html for detailed instructions
+
+4. Download and install ADT plugin for Eclipse.
+Follow below link:
+http://developer.android.com/sdk/installing/installing-adt.html
+
+5. Clone psumaps repository to the local using the GitHub shell.
+  Use the following command to clone the repository.
+  git clone <URL>
+
+6. Open Eclipse and import the project folder into the workspace.
+    Select File->Import->Android->Existing Android code into workspace.
+    Select root directory of the project folder and tick “Copy projects into workspace”. Click Next->Finish.
+    
+7.  Go to Project->Clean. Choose clean projects selected below and choose psumaps. Click OK.
+
+8. Click on Run to run the application as Android Application. 
+
+
+Running App on the Android Device for testing:
+
+1. Developing App & connecting it to Android Device requires appropriate USB driver installation.
+Follow link: http://developer.android.com/tools/extras/oem-usb.html
+
+2. Enable USB Debugging in the android device
+- For device with Android 3.2 and older, select 
+Settings->Applications->Development. Activate the ‘USB 
+Debugging’.
+
+- Follow link to identify the steps for android device with later 
+version
+
+http://developer.android.com/tools/building/building-eclipse.html#RunningOnDeviceEclipse
+
+3. Once setup and your device is connected via USB, install your 
+application on the device by selecting Run as->Android 
+Application. Click on “Choose a running android device” and 
+select the android device and click OK. This will launch the 
+application on the android device.
+
+
+
