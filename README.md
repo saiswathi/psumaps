@@ -55,7 +55,18 @@ https://github.com/saiswathi/psumaps
 
 Documents:
 
+For generating API key refer to the link below:
+http://developer.xamarin.com/guides/android/platform_features/maps_and_location/maps/obtaining_a_google_maps_api_key/
 
+Developer Manual:
+
+https://github.com/saiswathi/psumaps/blob/master/DevDocs
+
+
+User Manual:
+Click on the link below to find User Manual
+
+https://github.com/saiswathi/psumaps/blob/master/UserManual.pdf
 
 Binary file:
 
