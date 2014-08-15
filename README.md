@@ -23,7 +23,11 @@ References:
 
 https://developers.google.com/maps/documentation/android/start#getting_the_google_maps_android_api_v2 https://developers.google.com/maps/documentation/android/  http://stackoverflow.com/questions/9605913/how-to-parse-json-in-android
 
-Author - Sai Swathi Pujari email: spujari@pdx.edu
+Author - Sai Swathi Pujari
+
+email: spujari@pdx.edu
+
+
 
 Names:
 Sai Swathi Pujari
@@ -48,6 +52,14 @@ Please check the below link to get the file license in this distribution. Link :
 Source Code:
 The source code can be found at the following repository Link for repository : 
 https://github.com/saiswathi/psumaps
+
+Documents:
+
+
+
+Binary file:
+
+https://github.com/saiswathi/psumaps/blob/master/bin/psumaps.apk
 
 
 Pre-requisites:
