@@ -25,19 +25,6 @@ https://developers.google.com/maps/documentation/android/start#getting_the_googl
 
 Author - Sai Swathi Pujari
 
-email: spujari@pdx.edu
-
-
-
-Names:
-Sai Swathi Pujari
-
-Project Name:
-PSUMaps
-
-Contact Information:
-spujari@pdx.edu
-
 Project Description:
 
 psumaps – An open source Android application which is helpful to portland state univeristy students to navigate 
