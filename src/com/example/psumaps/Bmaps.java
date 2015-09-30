@@ -29,7 +29,6 @@ package com.example.psumaps;
  * http://stackoverflow.com/questions/9605913/how-to-parse-json-in-android
  *
  * Author - Sai Swathi Pujari
- * email: spujari@pdx.edu
  *
  *  ******************************************************************************************/
 
